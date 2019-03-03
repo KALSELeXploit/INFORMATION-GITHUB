@@ -6,10 +6,10 @@ echo "
      YMMMb   dMMMP
        YMMM  MMM'
           MbdMP
-      .dMMMMMM.P   -=[DEFACE SCRIPT CREATOR]=-
+      .dMMMMMM.P   -=[INFORMATION-USER-GITHUB]=-
      dMM  MMMMMMM  -=[Coded By Muhammad Rafli]=-
      8MMMMMMMMMMI  -=[Team : Kalsel[E]Xploit]=-
-      YMMMMMMMMM   -=[Telegram : RabbitCL4Y IG]=-
+      YMMMMMMMMM   -=[Telegram : RabbitCL4Y]=-
         MMMMMMP
        MxM .mmm\n";
 ?>
